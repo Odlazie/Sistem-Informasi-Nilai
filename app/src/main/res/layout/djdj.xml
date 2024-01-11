@@ -1,0 +1,122 @@
+<GridLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/gridLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="3"
+    android:rowCount="5">
+
+    <!-- Baris 1 -->
+    <Button
+        android:layout_width="10dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:background="@color/black"
+
+
+    <Button
+        android:layout_width="75dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:background="@color/white"
+
+
+    <Button
+        android:layout_width="75dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:background="@color/black"
+
+    <!-- Baris 2 -->
+    <Button
+        android:layout_width="10dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:background="@color/white"
+
+    <Button
+        android:layout_width="75dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:background="@color/black"
+
+    <Button
+        android:layout_width="75dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:background="@color/white"
+
+
+    <!-- Baris 3 -->
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="100dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:background="@color/black"
+
+    <Button
+        android:layout_width="10dp"
+        android:layout_height="100dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:background="@color/white"
+
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="100dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:background="@color/black"
+
+    <!-- Baris 4 -->
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:background="@color/white"
+
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:background="@color/black"
+
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:background="@color/white"
+
+    <!-- Baris 5 -->
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:background="@color/black"
+
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:background="@color/white"
+
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        a  android:background="@color/black"
+
+</GridLayout>
